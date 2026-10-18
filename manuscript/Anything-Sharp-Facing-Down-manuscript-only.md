@@ -2124,6 +2124,8 @@ Josie asks, this morning, what he was like at breakfast.
 
 She asks it the way she asks everything, which is as though it has just occurred to her, and I have known for some weeks now that nothing occurs to Josie. Things are placed. She has a list somewhere, not on paper, and the breakfast question has been on it since the first Friday, and she has waited until the morning after we finished the kitchen material to put it down in front of me, which is the correct place for it, and I would have done the same.
 
+I said in the second chapter that I found her want of interest in politics restful, and that the reason was not flattering to me. Here it is, since this is where it fails. I had assumed that somebody who did not care what the job was would not know which morning of it to ask about. She did not need the job. She only needed the breakfast.
+
 I said he was just as usual.
 
 She waited, because she has learned that I fill silences the way other people cannot leave a phone ringing, and I did not fill it, and she made a small note, and I would give a good deal to know what the note says.
