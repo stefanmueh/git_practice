@@ -6,14 +6,14 @@ This file contains a complete literary novel (~55,000 words) plus the context an
 
 ## PART 1 — BRIEF FOR THE ASSISTANT
 
-**Status: the manuscript is FINISHED.** It went through twelve structured critique-and-revision cycles. Do not rewrite, "improve" or expand the prose unless the author asks for a specific change. The canon (appended) records every deliberate choice, including things that look like errors but are intentional.
+**Status: the manuscript is FINISHED.** It went through twelve structured critique-and-revision cycles and a thirteenth, forensic read (continuity, calendar and arithmetic repair, plus the line-level changes logged in canon §16). Do not rewrite, "improve" or expand the prose unless the author asks for a specific change. The canon (appended) records every deliberate choice, including things that look like errors but are intentional.
 
 **What the author needs help with now (outside the manuscript):**
 1. A query letter for UK literary agents (first wave), US agents second.
 2. A one-page synopsis that reveals the ending.
 3. Agent research — comps-based, verified via Publishers Marketplace / agency sites.
 4. Preparing for a pre-submission legal read (real Britain, an invented premiership, a strike inside Russia, living-persons check on proper nouns).
-5. Copyedit only: dialogue quotation marks are mixed (double in early chapters, single in later additions) and need normalising to one style.
+5. ~~Copyedit only: dialogue quotation marks are mixed~~ — DONE in the thirteenth read: all dialogue and quotation now in UK single quotation marks.
 
 **Pitch sentence (as drafted):** A dying Prime Minister's wife dictates her memoir twice — the version her publisher will print, and the version she keeps in a drawer, which includes the six minutes in a kitchen before her husband signed the order to kill a British citizen on Russian soil.
 
@@ -192,7 +192,7 @@ You do not lie. Lying is for people with no vocabulary. You select. My father wa
 
 And then, when required, you deploy. When the Sissons' girl was admitted to read law, my mother said, in the kitchen, to a neighbour, with real warmth: 'Well, of course, they've wanted it so badly for her.'
 
-There is not a false word in that sentence. It contains no claim of any kind. It is warm, it is generous, it takes eight words, and by the time it has crossed the room it has established that the girl got in because her parents pushed, that the pushing was faintly unseemly, and that we, in this kitchen, would never. I was eleven. I remember the feeling exactly and it was not disapproval. It was the feeling you get watching somebody park a car in a space you would not have attempted.
+There is not a false word in that sentence. It contains no claim of any kind. It is warm, it is generous, it takes ten words, and by the time it has crossed the room it has established that the girl got in because her parents pushed, that the pushing was faintly unseemly, and that we, in this kitchen, would never. I was eleven. I remember the feeling exactly and it was not disapproval. It was the feeling you get watching somebody park a car in a space you would not have attempted.
 
 *Oh*, I thought. *You can do that.*
 
@@ -224,7 +224,7 @@ Not what he cannot see. Where.
 
 ---
 
-I never asked her whether she knew that I knew. There were about four thousand evenings in which I could have, and one afternoon in 1994 in a side room at Lincoln County when it would have taken nothing at all, and I have no explanation, and I am not going to construct one now.
+I never asked her whether she knew that I knew. There were about three thousand evenings in which I could have, and one afternoon in 1994 in a side room at Lincoln County when it would have taken nothing at all, and I have no explanation, and I am not going to construct one now.
 
 ---
 
@@ -248,7 +248,7 @@ We work in the morning room, which faces east and is therefore finished as a roo
 
 I can tell you what the boundary is like, since I am the only person who will ever stand on it. At about the hundredth minute the sentences begin to arrive pre-assembled, from stock, and they are good stock, mine, but I can no longer feel the join where the sentence meets the thing it is about. It is like driving in fog on a road you know: you can do it, beautifully, for miles, and you should not, and the passengers cannot tell the difference, which is the frightening part, and Josie stops us at the point where I can still tell, which means she is watching for something in my face that I would give a great deal to know the name of.
 
-Josie sits in the wing chair with her feet tucked up, which I like very much and would not have dared at her age in somebody else's house. She is thirty-one. She has done nine of these. Two footballers, a chef, a woman off the television whose name I did not know and pretended to, a general, and three I am not to mention. She is extremely good and I did not expect that. I had expected somebody to take dictation and instead I have somebody who says, on about the fourth morning, that the grandmother is doing a great deal of work and the brother is doing none, and who is right.
+Josie sits in the wing chair with her feet tucked up, which I like very much and would not have dared at her age in somebody else's house. She is thirty-one. She has done nine of these. Two footballers, a chef, a woman off the television whose name I did not know and pretended to, a general, a man who had rowed the Atlantic and wished he hadn't, and three I am not to mention. She is extremely good and I did not expect that. I had expected somebody to take dictation and instead I have somebody who says, on about the fourth morning, that the grandmother is doing a great deal of work and the brother is doing none, and who is right.
 
 No. Leave it in. If it comes out later it comes out later, but leave it in for now.
 
@@ -328,7 +328,7 @@ We came to Rutland when it ended because it is nobody's county, which was the po
 
 I went out in April. I told Martin I was going to Pat's and I did not go to Pat's. I went east instead, and crossed into Lincolnshire past South Witham, and got up onto the cliff road where you can see eleven miles and there is nothing in any of it, and I drove for about two hours and did not stop, and came back before the light went.
 
-I have done that since I was twenty. Never with anybody. Never anywhere in particular. I have gone past the turning I meant to take perhaps three hundred times in fifty years and I have never once been late for anything as a result, which tells you something about the size of my life and possibly about the size of me.
+I have done that since I was twenty. Never with anybody. Never anywhere in particular. I have gone past the turning I meant to take perhaps two hundred and fifty times in fifty years and I have never once been late for anything as a result, which tells you something about the size of my life and possibly about the size of me.
 
 And on the way home you buy chips and you eat them in the car in a lay-by with the engine off, and you put the paper in the bin at the top of the road and you go in and you say it was lovely at Pat's.
 
@@ -680,7 +680,7 @@ Forms. Christine cannot do forms. It is not stupidity, she has a first, it is th
 
 The forms had a language and I became native in it. You learn that *can you walk fifty metres* does not mean can you, it means can you reliably, repeatedly, safely, and to what standard, and that the distance between *cannot* and *can only with difficulty* is the distance between two different tribunals. I kept a folder of phrasings that had worked, and revised it the way other women revise recipes, and I have wondered since whether the assessors on the other side kept folders of their own, of phrasings that had let them refuse, and I expect they did, and I expect somebody trained them, and I have been the somebody in other buildings, and there is no bottom to this paragraph, so I will stop it here.
 
-In 2003 I did an appeal against a benefits decision that had been made on the basis of a fifteen-minute assessment by a woman who had asked Alec to walk to a chair.
+In 2002 I did an appeal against a benefits decision that had been made on the basis of a fifteen-minute assessment by a woman who had asked Alec to walk to a chair.
 
 I took the whole of an autumn over it. I got the assessment guidance and I got the case law and I built the whole thing out of their own criteria, in their own language, and I found that the descriptor they had applied could not survive their own definition of variability, and I wrote nine pages, and I have never in my life produced anything better. Not at Cattermole and not afterwards and not in the building near Victoria.
 
@@ -690,7 +690,7 @@ She went to the hearing alone, in her good coat, with the nine pages in a plasti
 
 I would do that again tomorrow. I would do it instead of most of the rest of it.
 
-And driving. That is really the whole of it. From about 1998 I went over on a Tuesday when I could and later on a Tuesday and a Friday, and it was fifty-one minutes from the house in the constituency, and considerably more from anywhere else we ever lived, and I made that drive twelve hundred times or thereabouts, and for a great many of those I did nothing when I arrived except sit in a kitchen while somebody who was very tired talked.
+And driving. That is really the whole of it. From about 1998 I went over on a Tuesday when I could and later on a Tuesday and a Friday, and it was fifty-one minutes from the house in the constituency, and considerably more from anywhere else we lived in those years, and I made that drive twelve hundred times or thereabouts, and for a great many of those I did nothing when I arrived except sit in a kitchen while somebody who was very tired talked.
 
 Here is one. I have picked it the way you pick a specimen, for being ordinary, and it is the Tuesday I would keep if I could keep one.
 
@@ -722,7 +722,7 @@ I sat in the kitchen for two hours and forty minutes. Alec was upstairs. Christi
 
 She has no idea. Not that I was in trouble, and not what the trouble was. It did not come up because I did not bring it up, and I would like to be clear that she would have been extraordinary if I had. She would have been better at it than anybody. She would have dropped everything.
 
-That afternoon comes back about once a year and has done for twenty-nine, and I have never got any further with it than this: I could have had that. It was ninety pence and one sentence away. And I preferred the kitchen the way it was.
+That afternoon comes back about once a year and has done for twenty-nine, and I have never got any further with it than this: I could have had that. It was ninety seconds and one sentence away. And I preferred the kitchen the way it was.
 
 ---
 
@@ -876,7 +876,7 @@ In the lift afterwards Howard said, 'God.'
 
 I said nothing at all, because what I was doing was going back over it to see whether I would have got there, and the answer was that I would have got there in about a day and a half, on paper, alone, and would then have written it down and given it to somebody else to say out loud.
 
-Dr Charteris, for completeness, came back in the January with the centre-level data, which they did have after all, and it did not help him, and the product was restricted in the spring. At the door, leaving, he shook Rosalind's hand and said, 'It's a pleasure to lose to you, Professor,' which was the most honest sentence anybody from that side said in that room in twenty-five years, and she said, 'It shouldn't be a pleasure, Dr Charteris,' and asked Wesley whether there was more coffee.
+Dr Charteris came back in the January with the centre-level data, which they did have after all, and it did not help him, and the product was restricted in the spring. At the door, leaving, he shook Rosalind's hand and said, 'It's a pleasure to lose to you, Professor,' which was the most honest sentence anybody from that side said in that room in twenty-five years, and she said, 'It shouldn't be a pleasure, Dr Charteris,' and asked Wesley whether there was more coffee.
 
 ---
 
@@ -912,7 +912,7 @@ She said, 'Do it properly, bring it to me on Friday, and don't apologise for it 
 
 She took it to the committee in the June and put my name on it, twice, out loud, when she could perfectly well have carried it herself.
 
-I was not in the room. Analysts waited in the corridor in those days, in case of questions, on two chairs under a print of a bridge, and the doors were heavy but not heavy enough, and I heard my own name come through the oak twice, in her voice, in the cadence that means a name is being attached to something, and then the long murmur a committee makes when it is agreeing, which is lower than the murmur it makes when it is not, and you learn the difference in one afternoon and keep it for life. Wesley came out with the tray and told me before anybody official did. He said, 'They've taken it. All of it.' And then, professionally: 'He nodded off after.' In the corridor afterwards she said, 'That was a good piece of work,' and did not elaborate. I have got more out of those five words in forty years than out of every other compliment I have received put together.
+I was not in the room. Analysts waited in the corridor in those days, in case of questions, on two chairs under a print of a bridge, and the doors were heavy but not heavy enough, and I heard my own name come through the oak twice, in her voice, in the cadence that means a name is being attached to something, and then the long murmur a committee makes when it is agreeing, which is lower than the murmur it makes when it is not, and you learn the difference in one afternoon and keep it for life. Wesley came out with the tray and told me before anybody official did. He said, 'They've taken it. All of it.' And then, professionally: 'He nodded off after.' In the corridor afterwards she said, 'That was a good piece of work,' and did not elaborate. I have got more out of those seven words in forty years than out of every other compliment I have received put together.
 
 All of that should be on the page now, before anything else, because of what comes later. It would be extremely convenient for me if Rosalind Teague had been a monster. She was the best of us.
 
@@ -1008,7 +1008,7 @@ He laughed at that. Not politely. He put his head back and laughed and said, 'Go
 
 Then a man called Ivor Pask came in for a bottle opener, and Martin turned and said, 'Ivor. Now then. Did you sort it out with the flue?' and Ivor Pask told him about the flue for six or seven minutes, and Martin listened to that with exactly the attention he had given me, and asked two questions about it, and the second one was good.
 
-Ivor Pask, for completeness, since this book settles accounts: Martin was at his funeral in 2009, one of about a dozen there, on no connection anybody could name beyond a bottle opener and a flue in 1982, and that is my husband entire, in a sentence I have been circling since the yellow house. He attends.
+Ivor Pask, since this book settles accounts: Martin was at his funeral in 2009, one of about a dozen there, on no connection anybody could name beyond a bottle opener and a flue in 1982, and that is my husband entire, in a sentence I have been circling since the yellow house. He attends.
 
 I stood there with my glass and I registered it and I put it away.
 
@@ -1018,7 +1018,7 @@ He worked for the county council in social services and had done since 1971, hav
 
 He was, by 1982, running the part that dealt with residential care for the elderly, which nobody wanted and which he had asked for. His mother, Doreen, had been in a home in Sutton-in-Ashfield for three years by then, and it was not a good one, and he had got her moved, and the process of getting her moved had taken him eleven months and had turned him, permanently, into a man with a subject.
 
-I met her at the home first, the good one, the one it had taken him a year to win, and the meeting was conducted on her ground and her terms, in the day room, with a tin of shortbread deployed like regalia, and half the residents found reasons to pass the door, because word had gone round that Martin's young lady was in, and I was thirty and had been called many things and never that, and Doreen watched me notice all of it and offered me the tin last, after two passers-by, to see what I would do with the order of precedence, and I took the plainest one, and we understood each other from there.
+I met her at the home first, the good one, the one it had taken him a year to win, and the meeting was conducted on her ground and her terms, in the day room, with a tin of shortbread deployed like regalia, and half the residents found reasons to pass the door, because word had gone round that Martin's young lady was in, and I was nearly thirty and had been called many things and never that, and Doreen watched me notice all of it and offered me the tin last, after two passers-by, to see what I would do with the order of precedence, and I took the plainest one, and we understood each other from there.
 
 I met Doreen five times before she died. She was a small woman with a very direct way of looking at you and she said to me on the second occasion, 'He's not clever, you know. He's just interested.' She said it fondly. I thought at the time that it was a slightly cruel thing to say about your son to a woman he was seeing.
 
@@ -1056,7 +1056,7 @@ Bridget, the cousin of somebody, caught the half-past-four train and sent a tea 
 
 Then we had three days in Wensleydale, because the diary of a county social services department does not recognise weddings. We stayed at a farm that did rooms, under a Mrs Askey, who served breakfast at one long table and ran it like a small assembly, and the only other guests were a couple from Redcar up for their ruby anniversary who held hands between the courses, and Mrs Askey referred to the four of us collectively as 'my couples' and to the weather as though it reported to her. On the second afternoon Martin helped Mr Askey move a chest freezer, voluntarily, gladly, for two hours, and came back with the entire history of the farm and an opinion about milk quotas that he held for the rest of his life. In the visitors' book, leaving, he wrote four lines. I wrote 'lovely', and then my new name, for the first time anywhere, and stood looking at it in the hall with my case in my hand, and Mrs Askey, passing, looked over my shoulder and said, 'It'll write easier by Christmas,' which remains the wisest thing anybody said to me about marriage, and she went on through with the toast rack.
 
-The first house was on a quiet road in Cheam with a garden that the previous owner, a widower going to his daughter's, had loved past the point of sense, and he walked Martin round it for an hour on completion day, handing over the peonies by name, and left him the tools, including a fork with a mended handle that Martin used for forty years and would not replace, on the usual grounds. The neighbours took us for a settled couple within a month, because Martin knew all of them within a month, and the road had opinions about us before we had unpacked the books, and the opinions were kind, and I lived on that road for twenty-two years and was happy there in my fashion.
+The first house was on a quiet road in Cheam with a garden that the previous owner, a widower going to his daughter's, had loved past the point of sense, and he walked Martin round it for an hour on completion day, handing over the peonies by name, and left him the tools, including a fork with a mended handle that Martin used for forty years and would not replace, on the usual grounds. He kept a room in Beeston for the working week and came down on Thursday nights until Parliament, and the neighbours took us for a settled couple within a month regardless, because Martin knew all of them within a month, and the road had opinions about us before we had unpacked the books, and the opinions were kind, and I lived on that road for twenty-two years and was happy there in my fashion.
 
 ---
 
@@ -1156,7 +1156,7 @@ That is all I want to say about that.
 
 We stopped taking precautions in the November of 1984, three weeks after the wedding, in the house at Cheam.
 
-Christine's first was born in the August of 1986 and I drove down the following morning and held him in a chair by the window and he was nine days early and had a mark on his forehead that went in a fortnight.
+Christine's first was born in the August of 1986 and I drove up the following morning and held him in a chair by the window and he was nine days early and had a mark on his forehead that went in a fortnight.
 
 In the March of 1987 I went to the surgery on Malden Road and saw a Dr Ferrar, who was a locum, and who said that two and a half years was not long and that I should come back at three. I came back at three. He had gone. The partner I saw instead, a Dr Prydderch, referred us both that afternoon.
 
@@ -1190,7 +1190,7 @@ The injections were in the fridge, in the door, behind a jar of something. They 
 
 I told Rosalind I had a class. She said, 'What in?' and I said Italian, and for the next four years she asked me every few months how the Italian was going, and I answered.
 
-The sharps bin was under the basin in the bathroom at Cheam behind a wicker thing. Martin never once mentioned it in twelve years and it was there for ten of them.
+The sharps bin was under the basin in the bathroom at Cheam behind a wicker thing. Martin never once mentioned it in twelve years and it was there for five of them.
 
 There was a diary. Tuesday, mostly, and sometimes Thursday. It was in the drawer of the table on my side. It had a picture of a bridge on it.
 
@@ -1512,7 +1512,7 @@ There was an item in the Grimsby paper, seven lines, from the November. She had 
 
 That is everything that exists. I have looked many times since and there is nothing else.
 
-I could recite the seven lines. I am not going to. They are hers. She was born before people were photographed constantly and she died before it either.
+I could recite the seven lines. I am not going to. They are hers. She was born before people were photographed constantly, and she died before they were.
 
 I telephoned the coroner's office in the February.
 
@@ -1662,7 +1662,7 @@ The flat above Number 11 is the larger one, four bedrooms, and it has been used 
 
 Living there is like living in a very good flat over a very busy office. You come down the stairs and there is a country going on.
 
-What follows is the longest chapter in this book. Eight years out of seventy-three: one chapter, however long the chapter has to be. That is the arithmetic, and it is also the argument.
+What follows is the whole premiership. Eight years out of seventy-three: one chapter, however long the chapter has to be. That is the arithmetic, and it is also the argument.
 
 The private corridor was not serviced after eight in the evening. Martin asked for that in the first month. It was written down somewhere and referred to, by everybody in the house, as the understanding. It is the only thing either of us ever asked for and it was, on reflection, an enormous thing to ask for, and it was granted inside four hours by people who were visibly relieved that this was all we wanted.
 
@@ -1718,7 +1718,7 @@ I have that. It is not in the roof. It is in the drawer of the table in this roo
 
 I want to describe the dinners, because they are the thing people ask about, and because what people imagine is wrong in a specific way.
 
-They imagine a table at which decisions are made. There is no such table. What there is, four or five evenings a week, is eight or ten people eating chicken in a room with the wrong acoustics, and every one of them has been awake since half past five, and the conversation is about ninety per cent process, eight per cent gossip and two per cent the actual thing.
+They imagine a table at which decisions are made. There is no such table. What there is, two or three evenings a week, is eight or ten people eating chicken in a room with the wrong acoustics, and every one of them has been awake since half past five, and the conversation is about ninety per cent process, eight per cent gossip and two per cent the actual thing.
 
 The two per cent is real. It is not that the dinners do not matter. It is that somebody says something faintly indiscreet about a colleague's difficulty at about a quarter past nine, and everybody notes it, and four months later a job goes a particular way and nobody involved could tell you why.
 
@@ -1740,7 +1740,7 @@ The man not present was moved in the January.
 
 He was given a bank, I believe, or the branch of one, and he sent a Christmas card to the flat for years afterwards, addressed to us both, which I answered, because the wives answer, and every year the card was the same painting of geese, and I have wondered since whether he chose it once and forgot, or chose it fresh each year, and which of those is sadder.
 
-The wives — and it was still mostly wives, with two husbands and a partner nobody had ruled on — had, unofficially, our own table, which convened perhaps three times a year at the residence of whichever embassy had the best pastry chef, and no minutes were taken, and everything was minuted, in nine heads, in six languages, and I have sat at peace tables with less information in the room. We did not trade secrets. We traded weather: whose husband was sleeping, whose principal had stopped listening to the building, who had begun to be photographed from the left. The table knew a resignation was coming, twice, before the resigning man did, and said nothing, in six languages, because saying was not what the table was for. Holding was what the table was for, and we held it.
+The wives — and it was still mostly wives, with two husbands and a partner nobody had ruled on — had, unofficially, our own table, which convened perhaps three times a year at the residence of whichever embassy had the best pastry chef, and no minutes were taken, and everything was minuted, in nine heads, in six languages, and there have been summits with less information in the room. We did not trade secrets. We traded weather: whose husband was sleeping, whose principal had stopped listening to the building, who had begun to be photographed from the left. The table knew a resignation was coming, twice, before the resigning man did, and said nothing, in six languages, because saying was not what the table was for. Holding was what the table was for, and we held it.
 
 ---
 
@@ -1792,7 +1792,7 @@ I heard it three hundred times, I should think, in eight years. It is said with 
 
 Once, and once only, a guest asked. A spouse, like me — the husband of somebody's counterpart, a retired engineer from a sensible country, who put down his fork in the middle of the flat vocabulary and said, pleasantly, 'Forgive me. What is that one? The one you all keep saying.' And the table did a thing I have never forgotten: it answered him. Fully, kindly, in about forty seconds, with an example. It had never been a secret. It had only ever been a door that nobody local could afford to be seen knocking at, and a man with a return flight walked through it for free, and I sat with my glass and did the arithmetic on what my own question would have cost in year one, and in year five, and that evening, and the numbers came out the way my numbers always come out, which is why I am telling you this at all.
 
-For completeness: I did learn one of them, eventually, by accident, from a crossword of all places, on a train, and sat looking out of the window with the answer in my lap and the strange flat feeling of a door opening onto a cupboard, and I have never told a living soul which one it was, and the pleasure of that has lasted ever since and is not spent yet.
+I did learn one of them in the end, by accident, from a crossword of all places, on a train, and sat looking out of the window with the answer in my lap and the strange flat feeling of a door opening onto a cupboard, and I have never told a living soul which one it was, and the pleasure of that has lasted ever since and is not spent yet.
 
 ---
 
@@ -1854,7 +1854,7 @@ Nadine told me once that the private office had a name for the pause. I never fo
 
 I saw it happen properly twice, because wives are not in those rooms, and both times were at home.
 
-The second one was in the sixth year, at Chequers, on a Sunday, in the room they call the Long Gallery which is not long. There were five of them and me, and I was there because it had started as lunch.
+The first I am keeping, because the person it was done to is still in public life and has been decent to me since. The second was in the sixth year, at Chequers, on a Sunday, in the room they call the Long Gallery which is not long. There were five of them and me, and I was there because it had started as lunch.
 
 There was a paper about a procurement. I am not going to say which and it does not matter and it was not, in the end, important.
 
@@ -1950,7 +1950,7 @@ And then Marianne did not stop, which was the mistake.
 
 She said, 'No, but I mean it. I've never understood it. I've genuinely never understood it, and I've watched it for seven years.' She had her glass in her hand and she was not slurring and she was not shouting. 'Because it isn't modesty, is it. You're not modest. You're the least modest person I've ever met, you're just quiet about it.'
 
-Which was, I want to record, entirely accurate, and better put than I have ever put it, and I have had eight years.
+Which was, I want to record, entirely accurate, and better put than I have ever put it, and I have had seventy-three years.
 
 And then she said: 'I think you're frightened of him.'
 
@@ -2004,7 +2004,7 @@ I have known Nadine Cullimore for eight years and she reads people for a living 
 
 I have wondered since whether that was mutual and whether she would say the same thing about me, and whether the two of us stood in that corridor for eight years being the only person in the building who could see the other one, and never once said so, out of professional courtesy.
 
-Marianne, for completeness, runs a review of something now and is very good on the radio, and when I am mentioned she is generous with a precision that tells me she remembers every word of that table, and we exchange cards, warm ones, and we are, in the manner of my whole life, closer for it never having been repaired.
+Marianne runs a review of something now and is very good on the radio, and when I am mentioned she is generous with a precision that tells me she remembers every word of that table, and we exchange cards, warm ones, and we are, in the manner of my whole life, closer for it never having been repaired.
 
 Nadine sent flowers in April. The card said *Thinking of you both, N.*
 
@@ -2166,13 +2166,15 @@ Josie asks, this morning, what he was like at breakfast.
 
 She asks it the way she asks everything, which is as though it has just occurred to her, and I have known for some weeks now that nothing occurs to Josie. Things are placed. She has a list somewhere, not on paper, and the breakfast question has been on it since the first Friday, and she has waited until the morning after we finished the kitchen material to put it down in front of me, which is the correct place for it, and I would have done the same.
 
+I said in the second chapter that I found her want of interest in politics restful, and that the reason was not flattering to me. Here it is, since this is where it fails. I had assumed that somebody who did not care what the job was would not know which morning of it to ask about. She did not need the job. She only needed the breakfast.
+
 I said he was just as usual.
 
 She waited, because she has learned that I fill silences the way other people cannot leave a phone ringing, and I did not fill it, and she made a small note, and I would give a good deal to know what the note says.
 
-She has three pens and a system. Black for what I say, blue for what she asks, and a pencil that comes out rarely, and I have watched it come out for the hedge, for the corridor outside Aylmer's door, for the tea being put down too far away, and this morning, twice. I asked her once what the pencil was for and she said, 'Things that stay in whatever you decide,' which is a professional answer and a small declaration of war, honestly meant, and then, because she is Josie, she wrote something down about having been asked.
+She has two pens, a pencil and a system. Black for what I say, blue for what she asks, and the pencil, which comes out rarely, and I have watched it come out for the hedge, for the corridor outside Aylmer's door, for the tea being put down too far away, and this morning, twice. I asked her once what the pencil was for and she said, 'Things that stay in whatever you decide,' which is a professional answer and a small declaration of war, honestly meant, and then, because she is Josie, she wrote something down about having been asked.
 
-For the record, the one personal fact I possess, gathered across four months without asking: there is a grandmother in Tenby, rung on Sunday evenings, and the ringing is why the Friday file goes on Friday and not, as the contract says, on Monday — she does the week in one sitting so the weekend stays clean for Tenby. I have never let her know I worked it out. It is the only file I have opened on somebody and then closed again out of respect, and it took me seventy years to manage it once, and it is probably the moral progress of this entire book, measured honestly.
+For the record, the one personal fact I possess, gathered across ten weeks without asking: there is a grandmother in Tenby, rung on Sunday evenings, and the ringing is why the Friday file goes on Friday and not, as the contract says, on Monday — she does the week in one sitting so the weekend stays clean for Tenby. I have never let her know I worked it out. It is the only file I have opened on somebody and then closed again out of respect, and it took me seventy years to manage it once, and it is probably the moral progress of this entire book, measured honestly.
 
 Then I told her about the fish pie. Denise's foil, the note about the oven, the two helpings, the magistrate from Bolton and her boy. The cold cup in the morning. The radio. I gave her the evening and the edges of the morning and nothing in the middle, and she wrote it all down, and some of it will be in the book, because it is good material, and it is the truth, and it is a door presented to the reader with the hinges painted on.
 
@@ -2192,7 +2194,7 @@ She said the material is thin. She said this kindly and she is right. There are 
 
 And then she stopped turning the pages and squared them on her knee and said, 'I suppose what I can't work out is what it's for.'
 
-I sat with that for the rest of the afternoon. She made tea, which she does not usually do, and we did not work, and I looked out at the garden, where the secateurs still are, and I tried to produce one sentence that says what the chapter is for, and I could not do it.
+I sat with that for the rest of the afternoon. She made tea, which she does not usually do, and we did not work, and I looked out past the secateurs, which are still on the windowsill, at the garden, and I tried to produce one sentence that says what the chapter is for, and I could not do it.
 
 It is a scene in which nothing happens between two people who were still married at the end of it. He was not upset. There was no row. He was in the car at eight minutes past seven, and by every account of that day, including the inquiry's, he was entirely himself. I know what the chapter is for. It is the only thing in either book that I know completely. And the sentence that says it cannot be said to Josie, or to the reader of the book, or, on the evidence of four days, to the machine. So I looked at the garden until the light went off it, and on the Thursday I agreed.
 
@@ -2298,7 +2300,11 @@ That is not an accusation. I have spent my life inside the question of who count
 
 A range from a number to more than six times the number. I knew the shape. I had been carrying its twin for twenty years, and when I saw the first estimates side by side in the paper I put the paper down and went and stood in the garden for a while, and Martin asked through the window whether I wanted anything, and I said no, and that was true.
 
-The inquiry did not count them either, because it was not asked to. The inquiry was asked whether the process had been followed, and it found that the process had been followed, and it reported on a Thursday in July, and the report is four hundred pages, and the operative sentence is one. The committee that oversees these things reported separately that it had not been given everything it asked for, in language so polished by use that it slid off the day it was published. I read all four hundred pages in two sittings, professionally, the way I read everything, and the operative sentence, for the record kept in this drawer, is this one: *We have not seen the material on which the assessment of imminence was based.* Fourteen words, in the first person plural, on page three hundred and something, and every word of it is load-bearing, and it was quoted nowhere, because it does not scan, and the sentences that were built to scan were quoted everywhere. I know how that works. I have written both kinds. A member of the other House and a barrister I once sat next to at dinner brought a challenge, and the challenge failed, in the autumn, on standing, which means the court never reached the question, which is a sentence I have now written about two different courts in two different decades.
+They had been estimated, though, beforehand, and that part I can speak to, because it is my part.
+
+I said, a long way back, in the building on Nine Elms Lane, that there was one more number of this kind in this book, set further up by people I never met. Here it is, or here is its shape. I have not seen the figure and I would not write it down if I had. Before a page like that one goes up a building, somebody estimates how many people who are not the man will be within reach of what is sent, and above the estimate there sits a level, and the level decides whether the page goes up at all. It is set by reasonable people for defensible reasons. The estimate that morning was under the level; I know that because the page went up. On the yellow cards, below the level, nobody looks. Here, below the level, nobody has to stop. It is the sentence I wrote about the yellow cards turned the other way up, and I knew it the way you know your own hand on an envelope you do not remember addressing.
+
+The inquiry did not count them either, because it was not asked to. The inquiry was asked whether the process had been followed, and it found that the process had been followed, and it reported on a Thursday in July, and the report is four hundred pages, and the operative sentence is one. The committee that oversees these things reported separately that it had not been given everything it asked for, in language so polished by use that it slid off the day it was published. I read all four hundred pages in two sittings, professionally, the way I read everything, and the operative sentence, for the record kept in this drawer, is this one: *We have not seen the material on which the assessment of imminence was based.* Fourteen words, in the first person plural, on page three hundred and something, and every word of it is load-bearing, and it was quoted nowhere, because it does not scan, and the sentences that were built to scan were quoted everywhere. I know how that works. I have written both kinds. A member of the other House and a barrister I once sat next to at dinner brought a challenge, and the challenge failed, in the autumn, on standing, which means the court never reached the question.
 
 The barrister, at that dinner, years before any of it, had told me that the constitution of this country was a gentleman's agreement among people who were no longer gentlemen, and I had laughed and filed it under wit. In the autumn I watched her on the steps of the court saying measured things about standing, in the rain, to four cameras, and understood that she had been filing too, all along, and that hers was the better system, because she had filed it under warnings.
 
@@ -2350,7 +2356,7 @@ Next week we do the room.
 
 ### Fifteen
 
-The room was on the first floor of a building in Grantham that the council lets out for training days, and it had a hot-water urn on a trolley by the wall, and a window with vertical blinds, and carpet tiles in two blues, and I have been in several hundred rooms like it, on the other side of the table, doing the casework, and I had never once until that morning understood what the room looks like from the family's chairs.
+The room was on the first floor of a building in Grantham that the county council lets out for training days, and it had a hot-water urn on a trolley by the wall, and a window with vertical blinds, and carpet tiles in two blues, and I have been in several hundred rooms like it, on the other side of the table, doing the casework, and I had never once until that morning understood what the room looks like from the family's chairs.
 
 It was nine weeks after the strike. The visit was Nadine's design, mostly.
 
@@ -2362,7 +2368,7 @@ The advice was against. I want that recorded, because it is to his credit and no
 
 I asked to come. Nobody asked me. I asked, in the kitchen, the evening the visit was settled, and he looked at me for a moment and said, 'Yes. Good,' and did not ask why, and I could not have told him why, and I cannot fully tell you.
 
-We drove up the A1 in the July heat with the country doing its summer along both sides, and Martin read papers for the first hour and then stopped, and we did not talk, and somewhere past Peterborough he took my hand on the seat and held it, not looking up, the way you hold a rail. The protection men in front had turned the radio off at Hatfield without being asked. There is a service station at the county edge that I have known all my life, and we went past it at speed, lights on in the daytime, and I thought, with no warning at all, of chips in a lay-by, and of everything a county is, and by the time I had the thought in order we were in Lincolnshire, where I am always in order, and the room was forty minutes away.
+We drove up the A1 in the July heat with the country doing its summer along both sides, and Martin read papers for the first hour and then stopped, and we did not talk, and somewhere past Peterborough he took my hand on the seat and held it, not looking up, the way you hold a rail. The protection men in front had turned the radio off at Hatfield without being asked. There is a service station at the county edge that I have known all my life, and we went past it at speed, lights on in the daytime, and I thought, with no warning at all, of chips in a lay-by, and of everything a county is, and by the time I had the thought in order we were in Lincolnshire, where I am always in order, and the room was half an hour away.
 
 ---
 
@@ -2370,7 +2376,7 @@ Lorna Hollick was sixty-two that summer, and she had run the office of a seconda
 
 She had moved them. The building put us in by the back stairs, past a corridor of framed photographs of mayors, and a council officer whose name I did not keep walked ahead of us the whole way saying 'just along here' at intervals, to the corridor generally, in the voice of a man who had rehearsed a longer speech and thought better of it. The room had been aired. Somebody had aired it that morning, on purpose, for us, and I noticed, because noticing what has been done for you invisibly is the whole of my training.
 
-It was her council, her town, her room in some sense, and she had turned the two chairs on their side of the table very slightly toward the window, so that the light fell across rather than into the faces, which is a thing you do if you have spent three decades watching frightened parents sit down opposite authority, and it undid me a little, before anybody had said anything, that she had thought of our comfort at all.
+It was her county, her room in some sense, and she had turned the two chairs on their side of the table very slightly toward the window, so that the light fell across rather than into the faces, which is a thing you do if you have spent three decades watching frightened parents sit down opposite authority, and it undid me a little, before anybody had said anything, that she had thought of our comfort at all.
 
 The urn came to the boil twice during the four minutes and clicked itself off, twice, the only other thing in the room with a job.
 
@@ -2398,7 +2404,7 @@ What she said, in the middle of the four minutes, with her office hands laid fla
 
 Martin said something then that was right, and short, and not in any briefing, and I am not going to reproduce it, because it is his, and it is the only thing from that room he has ever declined to have quoted, and I asked him once and he said, 'No. That was for her.' He is a better man than this book has room to show. I keep writing that sentence and cutting it. It stays this time.
 
-That evening, home, he sat at the kitchen table for a long time after the plates were gone, with his hands flat on the wood the way hers had been flat on the laminate, though he could not have known he was doing it, and I did not tell him, and at about ten he said, 'She'd arranged the chairs,' and nothing else, and went up, and I sat on in the kitchen with the one lamp, and that is the closest the two of us have ever come to discussing the whole of it, and it was close enough, and it was eight words.
+That evening, home, he sat at the kitchen table for a long time after the plates were gone, with his hands flat on the wood the way hers had been flat on the laminate, though he could not have known he was doing it, and I did not tell him, and at about ten he said, 'She'd arranged the chairs,' and nothing else, and went up, and I sat on in the kitchen with the one lamp, and that is the closest the two of us have ever come to discussing the whole of it, and it was close enough, and it was four words.
 
 ---
 
@@ -2458,7 +2464,7 @@ She had driven over from Nottingham on a Saturday with bulbs for the pots, becau
 
 'Did you ever mind, though? Honestly. All of it. Being the one who — you know. Did you ever mind?'
 
-There it was. Sixty years. And the rest of the visit, for the record, because the rest is the proof: she finished the pots, and washed her hands at my sink talking about Colin's knee, and made the tea wrong in the way she makes it, which I drink because she made it, and kissed the top of my head going, which nobody else alive is licensed to do, and beeped the horn twice at the end of the drive, which is her signature, and was gone by half past four, entirely unburdened, which had been the whole object of the exercise, achieved with one sentence, and cheap at the price. Christine came within a sentence of it in a kitchen in 1979 and was deflected without effort. Marianne got three-quarters of the way at a dinner and handed me the means of her own dismissal. Frank looked at his desk. Rosalind put down a pencil. And a physiotherapist with soil on her hands, thirty-four years old, who has me entirely wrong, who believes there was a career I laid down for Martin like a coat over a puddle, asked the question flat out, on a Saturday, with no agenda except that she loves me, and the door I have been describing for fifteen chapters stood all the way open in my own kitchen.
+There it was. Sixty years. And the rest of the visit, for the record, because the rest is the proof: she finished the pots, and washed her hands at my sink talking about Colin's knee, and made the tea wrong in the way she makes it, which I drink because she made it, and kissed the top of my head going, which nobody else alive is licensed to do, and beeped the horn twice at the end of the drive, which is her signature, and was gone by half past four, entirely unburdened, which had been the whole object of the exercise, achieved with one sentence, and cheap at the price. Christine asked twice this spring, from the chair by the window, whether I was frightened, and got something neither of us can remember. Marianne got three-quarters of the way at a dinner and handed me the means of her own dismissal. Frank looked at his desk. Rosalind put down a pencil. And a physiotherapist with soil on her hands, thirty-four years old, who has me entirely wrong, who believes there was a career I laid down for Martin like a coat over a puddle, asked the question flat out, on a Saturday, with no agenda except that she loves me, and the door I have been describing for fifteen chapters stood all the way open in my own kitchen.
 
 I said: 'You make a life out of what's in front of you, love. And I was lucky in what was in front of me.'
 
@@ -2800,7 +2806,7 @@ Anything not on this table does not get planted in chapters 13–18 without bein
 #### 10. NINTH-READ CORRECTIONS (as built)
 
 - **The date repaired.** Signature and kitchen: the twelfth of May. Statement to the House: the fifteenth ("three days before" now points at the right morning). The strike: the night of the twelfth. No other date in the book carries contested status; this one is load-bearing and is now consistent everywhere.
-- **The counting narrator recounted.** The car sentence is five words and is now priced as five. "I stayed until they were ready for us to go" carries two lies in ten words. The Grantham chapter runs to a dozen paragraphs. The invented clause stands four sentences from the corrected date. In 1996 she was four years from the Grade 6, not six. In the spring of the strike she was seventy. Rule going forward: every number she asserts about herself is verified against the timeline before it is typed. Her arithmetic is her character.
+- **The counting narrator recounted.** The car sentence is five words and is now priced as five. "I stayed until they were ready for us to go" carries two lies in ten words. The Grantham chapter runs to a dozen paragraphs. The invented clause stands four sentences from the corrected date. In 1996 she was four years from the Grade 6, not six. In the spring of the strike she was seventy-one (corrected, thirteenth read: she is seventy-three in spring 2026, born early 1953). Rule going forward: every number she asserts about herself is verified against the timeline before it is typed. Her arithmetic is her character.
 - **Elevens governor restored.** The three Part Four violations are gone. Standing exceptions unchanged: ages, the eleventh of July, ch. 1 inventory.
 - **The nine-words motif** is now exact and closed: Doreen's house (unsaid), and the threat to the reader (ch. 17). Two instances, both deliberate, no third.
 - **Ch. 16 staged.** The Josie fight runs in real time — her rehearsed argument ("You taught them to feel it. You taught them in chapter one."), the true answer that stays in Alison's mouth (an absence cannot be dictated; "my mother is not going to be worked, at this late stage, by me"), and the cruelty-as-permission landing on the page. The treaty runs in real time — the wrong engine, the four things Gillian says, the old joke laughed at in front of a witness "so that it counted," and Gillian's line on the step ("She talks about you the whole way home. Both ways, actually."), answered with the one sentence Alison never planned to give either of them. Gillian is the second person in the book who hears exactly what is said; Nadine is the first; neither is told so.
@@ -2827,7 +2833,7 @@ Anything not on this table does not get planted in chapters 13–18 without bein
 - **Chapter 7 was not touched.** The protection order held.
 - **What was added, in kind:** walk-ons (Margaret Hebden, Wesley, Íñigo, Mr Prentice, Mrs Askey, the engineer who asked, the woman at the Sleaford door); staged scenes (the full Tuesday with the radio, the committee heard through the oak, the tribunal phone call, the honeymoon, Doreen's shortbread, the Christmas party, the wives' table, the A1 drive, the manufacture of the false sentence); and texture that pays existing debts (the notebook's partitions problem, the 1971 card in the locked cabinet, the blue cup as Doreen's, the drive-in chapter's foxes, the bus shelter half-painted).
 - **New priced rhymes, all deliberate:** the Whitby tin (Vera's, ch. 17 ↔ Maureen's, ch. 5); the margins (yellow cards, ch. 5 ↔ Mrs Enderby, ch. 14 ↔ "I am the margin now," ch. 15 ↔ the empty margins at the top of the system, ch. 14); the third "Mm" (Martin ch. 11, Nadine ch. 15, Josie ch. 18 — Josie's is licensed by the Friday files: she legitimately knows the anecdote is reversed; this is NOT drawer-suspicion and must never become it); the Thursday calls (Christine, the nineties ↔ the three weeks); the bridge diaries (ch. 7 ↔ ch. 17); "he attends" (Ivor Pask's funeral); the Bolton coat ↔ the outgrown coat, priced once in ch. 12 and never again.
-- **The decision verb reconciled:** seven strings, six decisions — proem (the finder), ch. 2 (her age; the prognosis; the coincidence), ch. 16 (believing him), ch. 18 (the table, broken across the dash: "I have decided — / I have decided it is hers"). All other instances reworded. The verb is retired.
+- **The decision verb reconciled:** seven strings, six decisions — proem (the finder), ch. 2 (her age; her husband's silence; the coincidence), ch. 16 (believing him), ch. 18 (the table, broken across the dash: "I have decided — / I have decided it is hers"). All other instances reworded. The verb is retired.
 - **Elevens in chapters 13–18:** zero new. "I said the correct thing": ch. 1 pair, ch. 9, ch. 15's "In the book" — budget closed.
 - **Copyedit flag for the setter:** dialogue quotation marks are mixed (double in the early chapters, single in later additions). Normalise to a single style at copyedit; do not attempt it by search-and-replace.
 - **Nothing further is scheduled.** The manuscript stands at its destination weight and is not to be reopened except against a signed editorial letter.
@@ -2856,3 +2862,13 @@ Anything not on this table does not get planted in chapters 13–18 without bein
 - **The stopping rule is accepted.** The publisher's argument stands in the narrator's own epistemology: the intervention curve has crossed the line where each pass introduces as much defect as it removes. This canon records the manuscript as FINISHED. It is not to be reopened by the author under any prompt of habit; only a signed editorial letter from an acquiring editor reopens it, and then only against that letter's specific requests.
 - **Outstanding, all outside the manuscript:** the legal read (booked before submission — real Britain, invented premiership, a strike inside Russia, living-persons sweep of Lincolnshire); the query package (pitch as drafted; comps: Ishiguro, Shriver, Keegan, *Trust*; full manuscript, never partial); the jacket brief (title in a woman's hand).
 - Final word count: ~55,000. Proem and eighteen chapters. The file closes.
+
+#### 16. THIRTEENTH READ — FORENSIC REPAIRS AND LINE-LEVEL CHANGES (accepted by the author)
+
+- **Every number re-verified, including against the text itself.** False word counts corrected: the meeting answer (17→16 words: "at present"), the mother's sentence (ten words, not eight), Rosalind's compliment (seven, not five), Martin's "She'd arranged the chairs" (four, not eight). Ages recomputed from a birth early in 1953 (spring 2024 = seventy-one). Durations recomputed (Martin known forty-four years; Marianne two years; Rennard twelve; and others). Claims about this book made true: chapter counts replace "four hundred pages"; ch. 10 no longer claims to be the longest chapter (chs. 1 and 2 are longer — which proves its argument).
+- **The morning reconciled across chs. 3, 12, 14, 17:** he loads and runs the machine at ten past five; she enters at a quarter past six; Aled at twenty past; Martin in the kitchen at twenty-five to seven. Ch. 12's Monday night ends with plates stacked, not the machine run.
+- **Density-pass seams closed:** duplicate paragraph (ch. 8); two Whitlows (photographer now Anders Holm); title passage reordered so the secret title arrives as "Except once" (ch. 2); Loder's letter after Loder (ch. 3); wedding and honeymoon in order, Cheam after the honeymoon (ch. 6); Prentice digression no longer swallows the verdict on the article (ch. 9); statement scene in sequence (ch. 14); "Ryan" no longer leaks before ch. 15.
+- **The ch. 5 debt actually paid (ch. 14):** the casualty level — "On the yellow cards, below the level, nobody looks. Here, below the level, nobody has to stop." The figure is never given.
+- **Open questions resolved:** Josie's tenure (ten weeks at ch. 13); Christine's approach in ch. 16 now points at the spring question of ch. 4; the "two courts" clause cut; the sharps bin five years; Grantham is "her county"; Martin weekly-commutes from Beeston until Parliament; "ninety seconds and one sentence away".
+- **Also:** the first "Wait. Go back." is now kept back, not lost (ch. 11); the cover photograph is the room over the boiler (ch. 2); "for completeness" retired; dialogue in single quotation marks throughout.
+- The protection order on ch. 7 held: four copyedits of fact ("him", "house", "drove up", the sharps bin's five years), nothing else. Ch. 2's catchable lie stands.
